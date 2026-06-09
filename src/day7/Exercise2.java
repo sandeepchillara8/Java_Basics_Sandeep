@@ -1,0 +1,9 @@
+package day7;
+
+public class Exercise2 {
+
+	public static void main(String[] args) {
+		System.out.println("Git2");
+	}
+
+}
