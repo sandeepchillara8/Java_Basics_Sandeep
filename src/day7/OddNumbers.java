@@ -1,13 +1,16 @@
 package day7;
 
-public class TestClass {
+public class OddNumbers {
 
 	public static void main(String[] args)
 	{
 		int i=1;
-		while(i<=10)
+		while(i<=20)
 		{
-			System.out.println(i);
+			if(i%2==1)
+			{
+				System.out.println(i);
+			}
 			i++;
 		}
 
