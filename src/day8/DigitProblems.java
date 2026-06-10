@@ -1,6 +1,6 @@
 package day8;
 
-public class Exercise2 {
+public class DigitProblems {
 
 	public static void main(String[] args)
 	{
