@@ -1,0 +1,22 @@
+15:36:54.263 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:36:54.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:36:54.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:36:54.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sandeep\AppData\Local\Temp\testng-eclipse-1364270235\testng-customsuite.xml
+
+15:36:54.309 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+15:36:57.796 [main] INFO  testCases.TC001_AccountRegistrationtest - *************Starting TC001_AccountRegistrationtest*********
+15:36:58.074 [main] INFO  testCases.TC001_AccountRegistrationtest - *************clicked on myaccount*********
+15:36:58.552 [main] INFO  testCases.TC001_AccountRegistrationtest - *************clicked on register*********
+15:36:58.561 [main] INFO  testCases.TC001_AccountRegistrationtest - *************opened reg page*********
+15:36:58.906 [main] INFO  testCases.TC001_AccountRegistrationtest - entered firstname is: VECCJAT
+15:36:59.045 [main] INFO  testCases.TC001_AccountRegistrationtest - entered lastname is: NZOXXVH
+15:36:59.183 [main] INFO  testCases.TC001_AccountRegistrationtest - entered email is: iMVRznA@gmail.com
+15:36:59.351 [main] INFO  testCases.TC001_AccountRegistrationtest - entered phone is: 4123281467
+15:37:01.190 [main] INFO  testCases.TC001_AccountRegistrationtest - *************filled all the details*********
+15:37:02.232 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@765df79d: 121 ms
+15:37:02.235 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e850122: 2 ms
+15:37:02.249 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6a10b263: 14 ms
+15:37:02.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4d74c3ba: 9 ms
+15:37:02.266 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@73ba6fe6: 8 ms
+15:37:02.266 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79ab34c1: 0 ms
